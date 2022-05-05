@@ -1,0 +1,13 @@
+.contenedor{
+  border: solid black 2px
+}
+
+.button {
+  border: solid 2px green;
+  background-color: white;
+  transition-duration: 0.3s;
+} 
+
+.button:hover{
+  background-color: green;
+}
